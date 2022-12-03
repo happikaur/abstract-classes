@@ -27,6 +27,6 @@ public class Square extends Shape{
 
     @Override
     public void getPerimeter() {
-
+        int perimeter
     }
 }
